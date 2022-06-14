@@ -1,0 +1,24 @@
+.navbar {
+    background-color: rgb(110, 146, 134);
+}
+
+.nav-item {
+    margin-right: 40px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: rgb(229, 240, 236);
+    height: 400px;
+}
+.jumbotron h1 {
+    font-weight: bolder;
+    font-size: 30px;
+    padding-top: 35px;
+}
+.project {
+    margin-top: 100px;
+}
+.project h2 {
+    margin-bottom: 100px;
+}
